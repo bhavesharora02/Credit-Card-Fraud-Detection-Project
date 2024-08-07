@@ -3,9 +3,9 @@ Link to dataset : https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 **Project Overview**
 The goal of this project is to detect fraudulent credit card transactions using a logistic regression model. The project emphasizes the importance of data quality, model training, and validation to achieve high accuracy in fraud detection.
 
-**Contents****
+**Contents**
 
-****Introduction**
+**Introduction**
 
 A brief introduction to the project, its objectives, and the significance of credit card fraud detection using machine learning.
 Importing Dependencies
